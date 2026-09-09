@@ -237,4 +237,4 @@ This repository serves as the official landing page for Adobe DNG Converter. The
 **Get the most recent version of Adobe DNG Converter today!**
 
 ---
-**Last updated:** 2026-09-08 23:49:28 UTC
+**Last updated:** 2026-09-09 03:05:33 UTC
